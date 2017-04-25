@@ -1,0 +1,11 @@
+{
+    "uid": "webapp",
+    "script": "index.js",
+    "sourceDir": "/home/evgenii/work/webapp",
+    "append": true,
+    "LOGFIE": "/home/evgenii/work/webapp/.log/logfile.log",
+    "ERRFILE": "/home/evgenii/work/webapp/.log/error.log",
+    "OUTFILE": "/home/evgenii/work/webapp/.log/output.log",
+    "watch": true,
+    "watchIgnore": ["/.log"]   
+}
